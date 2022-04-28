@@ -1,0 +1,15 @@
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\obj\Debug\net6.0\datatypes.csproj.AssemblyReference.cache
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\obj\Debug\net6.0\datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\obj\Debug\net6.0\datatypes.AssemblyInfoInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\obj\Debug\net6.0\datatypes.AssemblyInfo.cs
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\obj\Debug\net6.0\datatypes.csproj.CoreCompileInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\bin\Debug\net6.0\datatypes.exe
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\bin\Debug\net6.0\datatypes.deps.json
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\bin\Debug\net6.0\datatypes.runtimeconfig.json
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\bin\Debug\net6.0\datatypes.dll
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\bin\Debug\net6.0\ref\datatypes.dll
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\bin\Debug\net6.0\datatypes.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\obj\Debug\net6.0\datatypes.dll
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\obj\Debug\net6.0\ref\datatypes.dll
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\obj\Debug\net6.0\datatypes.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day1\datatypes\datatypes\obj\Debug\net6.0\datatypes.genruntimeconfig.cache

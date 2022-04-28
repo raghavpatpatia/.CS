@@ -1,0 +1,14 @@
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\bin\Debug\net6.0\calculator.exe
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\bin\Debug\net6.0\calculator.deps.json
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\bin\Debug\net6.0\calculator.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\bin\Debug\net6.0\ref\calculator.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\bin\Debug\net6.0\calculator.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\obj\Debug\net6.0\calculator.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\obj\Debug\net6.0\ref\calculator.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\obj\Debug\net6.0\calculator.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day4\calculator\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache

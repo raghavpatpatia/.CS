@@ -1,0 +1,15 @@
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\bin\Debug\net6.0\even-odd.exe
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\bin\Debug\net6.0\even-odd.deps.json
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\bin\Debug\net6.0\even-odd.runtimeconfig.json
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\bin\Debug\net6.0\even-odd.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\bin\Debug\net6.0\ref\even-odd.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\bin\Debug\net6.0\even-odd.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\obj\Debug\net6.0\even-odd.csproj.AssemblyReference.cache
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\obj\Debug\net6.0\even-odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\obj\Debug\net6.0\even-odd.AssemblyInfoInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\obj\Debug\net6.0\even-odd.AssemblyInfo.cs
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\obj\Debug\net6.0\even-odd.csproj.CoreCompileInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\obj\Debug\net6.0\even-odd.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\obj\Debug\net6.0\ref\even-odd.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\obj\Debug\net6.0\even-odd.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day4\even-odd\even-odd\obj\Debug\net6.0\even-odd.genruntimeconfig.cache

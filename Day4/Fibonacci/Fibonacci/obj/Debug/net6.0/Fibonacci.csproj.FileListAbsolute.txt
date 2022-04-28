@@ -1,0 +1,14 @@
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.exe
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\bin\Debug\net6.0\ref\Fibonacci.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day4\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache

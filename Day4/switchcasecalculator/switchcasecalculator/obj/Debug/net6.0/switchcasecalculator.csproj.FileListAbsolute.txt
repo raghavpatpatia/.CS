@@ -1,0 +1,14 @@
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\bin\Debug\net6.0\switchcasecalculator.exe
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\bin\Debug\net6.0\switchcasecalculator.deps.json
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\bin\Debug\net6.0\switchcasecalculator.runtimeconfig.json
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\bin\Debug\net6.0\switchcasecalculator.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\bin\Debug\net6.0\ref\switchcasecalculator.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\bin\Debug\net6.0\switchcasecalculator.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\obj\Debug\net6.0\switchcasecalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\obj\Debug\net6.0\switchcasecalculator.AssemblyInfoInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\obj\Debug\net6.0\switchcasecalculator.AssemblyInfo.cs
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\obj\Debug\net6.0\switchcasecalculator.csproj.CoreCompileInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\obj\Debug\net6.0\switchcasecalculator.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\obj\Debug\net6.0\ref\switchcasecalculator.dll
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\obj\Debug\net6.0\switchcasecalculator.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day4\switchcasecalculator\switchcasecalculator\obj\Debug\net6.0\switchcasecalculator.genruntimeconfig.cache

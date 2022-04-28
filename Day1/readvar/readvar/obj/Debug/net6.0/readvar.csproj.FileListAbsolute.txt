@@ -1,0 +1,14 @@
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\bin\Debug\net6.0\readvar.exe
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\bin\Debug\net6.0\readvar.deps.json
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\bin\Debug\net6.0\readvar.runtimeconfig.json
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\bin\Debug\net6.0\readvar.dll
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\bin\Debug\net6.0\ref\readvar.dll
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\bin\Debug\net6.0\readvar.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\obj\Debug\net6.0\readvar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\obj\Debug\net6.0\readvar.AssemblyInfoInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\obj\Debug\net6.0\readvar.AssemblyInfo.cs
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\obj\Debug\net6.0\readvar.csproj.CoreCompileInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\obj\Debug\net6.0\readvar.dll
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\obj\Debug\net6.0\ref\readvar.dll
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\obj\Debug\net6.0\readvar.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day1\readvar\readvar\obj\Debug\net6.0\readvar.genruntimeconfig.cache
