@@ -1,0 +1,15 @@
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\bin\Debug\net6.0\Day6.exe
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\bin\Debug\net6.0\Day6.deps.json
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\bin\Debug\net6.0\Day6.runtimeconfig.json
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\bin\Debug\net6.0\Day6.dll
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\bin\Debug\net6.0\ref\Day6.dll
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\bin\Debug\net6.0\Day6.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\obj\Debug\net6.0\Day6.csproj.AssemblyReference.cache
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\obj\Debug\net6.0\Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\obj\Debug\net6.0\Day6.AssemblyInfoInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\obj\Debug\net6.0\Day6.AssemblyInfo.cs
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\obj\Debug\net6.0\Day6.csproj.CoreCompileInputs.cache
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\obj\Debug\net6.0\Day6.dll
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\obj\Debug\net6.0\ref\Day6.dll
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\obj\Debug\net6.0\Day6.pdb
+C:\Users\ragha\Documents\GitHub\C#\Day6\Day6\Day6\obj\Debug\net6.0\Day6.genruntimeconfig.cache
